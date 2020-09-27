@@ -1,2 +1,2 @@
 # pinguin-yum
-pinguin is yum
+pinguin is yum.
